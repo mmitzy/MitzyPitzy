@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MitzyPitzy
+- 👋 Hi, I’m @mmitzy
 - 👀 I’m interested in anime and video games
 - 🌱 I’m currently learning Java and Android
-- 💞️ I’m looking to collaborate on Zuzit.com
+- 💞️ I’m looking to collaborate on Zuzit
 - 📫 How to reach me: dani.bendav@gmail.com
 
 <!---
